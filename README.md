@@ -28,5 +28,13 @@
 <p align="middle"> <font color="red" size="5" face="Showcard Gothic"> :D duży uśmiech </font> </p> <br>
 <p align="middle"> <font color="blue" size="6" face="Segoe Print"> :P wytknięty język </font> </p> <br>
              </body>
+             <body>
+<p align="left"> <font color="black" size="4" face="Times New Roman"> <b> 80-805 </b> <i> Gdańsk </i> <u> Jana Pawła II </u> <strike> 21/37 </strike> </u> </p> <br>
+<p align="middle"> <font color="red" size="12" face="Courier New"> Ulubiony aktor Pit Brat </p> <br>
+<p align="middle"> <font color="grey" size="4" face="Verdana">  Ulubiony zespół muzyczny to: Nirvana </p> <br>
+<p align="middle"> <font color="green" size="3" face="Verdana"> Data urodzenia: 06 czerwiec 2006 </p> <br>
+<p align="left"> <font color="black" size="5" face="Times New Roman"> <sup> <b> H<sub>2</sub>SO<sub>4</sub> </sup> </b> </p> <br>
+<p align="left"> <font color="black" size="5" face="Times New Roman"> 	<sub> <b> x*x=x<sup>2</sub> </sup> </b> </p> <br>
+            </body>
 
 </html>
