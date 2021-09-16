@@ -81,19 +81,19 @@ Mała Zosia mówi do mamy:<br>
 <LI> Lenovo 
 <LI> HP
 <LI> Dell
- </UL> 
+
  <h2 align=middle> Najczęściej używane systemy operacyjne </h2>
  <UL TYPE=square> 
 <LI> Windows 10 
 <LI> Windows 7
 <LI> Mac OS X
- </UL> 
+ 
  <h2 align=middle> Najpopularniejsze języki programowania </h2>
   <UL TYPE=disc> 
 <LI> JavaScript
 <LI> Python
 <LI> Java
- </UL> 
+
  <HR>
  <h2 align=middle> <font color=red> Najczęściej używane przeglądarki internetowe </h2>
  <OL TYPE=1 START=1> 
